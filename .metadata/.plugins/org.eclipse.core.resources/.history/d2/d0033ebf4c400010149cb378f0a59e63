@@ -1,0 +1,5 @@
+package com.yeo.timepod.controller.admin;
+
+public class AdminDashboardController {
+
+}

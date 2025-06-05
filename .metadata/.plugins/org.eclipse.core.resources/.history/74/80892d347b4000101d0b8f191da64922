@@ -1,0 +1,23 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<title>${pageTitle }</title>
+</head>
+<body>
+
+	<div>
+		<div>
+			<a href="#">로고</a>
+		</div>
+		<ul>
+			<li><a href="#">HOME</a></li>
+			<li><a href="#">LIST</a></li>
+		</ul>
+	</div>
+
+</body>
+</html>
